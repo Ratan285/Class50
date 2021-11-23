@@ -1,0 +1,13 @@
+h1 {
+    color: brown;
+}
+
+.subHeadder{
+    border-style:dashed solid;
+}
+.header
+{background-color:cyan;
+display: flex;
+justify-content: flex;}
+
+
